@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  color: white;
+  background-color: rgb(34, 34, 34);
+  text-align: center;
+}
+
+.profilePic {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  border: 6px solid white;
+}
+
+.row {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+}
+
+.iconImg {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+}
+
+.icon {
+  padding: 30px;
+}
